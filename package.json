@@ -1,7 +1,8 @@
 {
-  "name": "@schacks/site",
-  "description": "State High Hack Club site",
-  "version": "2.0.0",
+  "name": "@teenshalenet/site",
+  "description": "State High TeenShale Network site",
+  "version": "1.0.0",
+  "private": true,
   "author": "Lachlan Campbell",
   "license": "MIT",
   "scripts": {

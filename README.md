@@ -1,6 +1,6 @@
-# Hack Club State High
+# TeenShale Network
 
-Website for [Hack Club](https://hackclub.com) at State College Area High School,
+Website for TeenShale Network at State College Area High School,
 built with the [Hack Club Design System](https://design.hackclub.com).
 
 MIT License
